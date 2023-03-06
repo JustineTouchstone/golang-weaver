@@ -187,3 +187,4 @@ c := openai.NewClientWithConfig(config)
 
 See also: https://pkg.go.dev/github.com/sashabaranov/go-openai#ClientConfig
 </details>
+# go-openai
